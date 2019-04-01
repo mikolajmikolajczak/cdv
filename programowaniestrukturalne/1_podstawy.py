@@ -47,3 +47,11 @@ ostatniZnak = nazwisko[-1]
 print(ostatniZnak)
 
 print()
+
+y = 4
+print(type(y))
+y = y /2
+print(type(y))
+print(y)
+
+print (nazwisko[0:2])
